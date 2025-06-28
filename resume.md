@@ -36,41 +36,6 @@ Backend Developer with 3+ years of experience in building scalable web applicati
 
 # Professional Journey
 
-<style>
-    dl { 
-        list-style-type: none; 
-    }
-
-    dl:before {
-        content: ' ';
-        background: #d4d9df;
-        display: inline-block;
-        position: absolute;
-        left: 29px;
-        width: 2px;
-        height: 100%;
-        z-index: 400;
-    }
-
-    dl > dt:before {
-        content: ' ';
-        background: white;
-        display: inline-block;
-        position: absolute;
-        border-radius: 50%;
-        border: 3px solid #5e0900; /* was #22c0e8 */
-        left: 20px;
-        width: 20px;
-        height: 20px;
-        z-index: 400;
-    }
-
-    dl {
-    position: relative;
-    padding-left: 50px;
-    }
-</style>
-
 <dl>
     <dt>
         <h2>Software Engineer</h2>
