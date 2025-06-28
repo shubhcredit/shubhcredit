@@ -38,6 +38,8 @@ It is helpful for the bigginer to develop the dynamic website using PHP & MySql 
 
 ---
 
+
+- 📝 Know more [Resume](resume.html)
 ## ⏳ Timeline Example (GitHub-Friendly)
 
 <div style="position: relative; padding-left: 50px; border-left: 2px solid #d4d9df;">
